@@ -34,7 +34,7 @@ A full stack blog application built with React, Node.js, Express, and MongoDB.
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/blog-app.git
+git clone https://github.com/shiva-xlnc/blog-app.git
 cd blog-app
 ```
 
